@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:58A6FF&height=220&section=header&text=Muhammad%20Ismail%20Raja&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Student%20%26%20Aspiring%20Ethical%20Hacker&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:58A6FF&amp;height=220&amp;section=header&amp;text=Muhammad%20Ismail%20Raja&amp;fontSize=46&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Cybersecurity%20Student%20%26%20Aspiring%20Ethical%20Hacker&amp;descAlignY=55&amp;descSize=18"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Student+%40+UET+Lahore;Learning+Python+%2B+Java+%2B+Linux;Exploring+Networks+%26+Databases;Aspiring+Ethical+Hacker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Cybersecurity+Student+%40+UET+Lahore;Learning+Python+%2B+Java+%2B+Linux;Exploring+Networks+%26+Databases;Aspiring+Ethical+Hacker" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=smillyyy&label=Profile%20Views&color=58A6FF&style=flat" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/smillyyy?label=Followers&style=flat&color=58A6FF" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=smillyyy&amp;label=Profile%20Views&amp;color=58A6FF&amp;style=flat" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/smillyyy?label=Followers&amp;style=flat&amp;color=58A6FF" alt="followers"/>
 
 </div>
 
@@ -40,10 +40,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=smillyyy&show_icons=true&theme=nord&hide_border=true&border_color=58A6FF&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smillyyy&layout=compact&theme=nord&hide_border=true&border_color=58A6FF&title_color=58A6FF&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=smillyyy&amp;show_icons=true&amp;theme=nord&amp;hide_border=true&amp;border_color=58A6FF&amp;title_color=58A6FF&amp;icon_color=58A6FF&amp;text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smillyyy&amp;layout=compact&amp;theme=nord&amp;hide_border=true&amp;border_color=58A6FF&amp;title_color=58A6FF&amp;text_color=c9d1d9" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=smillyyy&theme=nord&hide_border=true&border_radius=8&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak stats"/>
+<img src="https://streak-stats.demolab.com?user=smillyyy&amp;theme=nord&amp;hide_border=true&amp;border_radius=8&amp;background=0D1117&amp;ring=58A6FF&amp;fire=58A6FF&amp;currStreakLabel=58A6FF" alt="streak stats"/>
 
 </div>
 
@@ -52,7 +52,7 @@
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=smillyyy&theme=nord&no-frame=true&no-bg=true&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=smillyyy&amp;theme=nord&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;margin-h=8" />
 </div>
 
 <br/>
@@ -60,7 +60,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=smillyyy&theme=github-compact&color=58A6FF&line=58A6FF&point=ffffff&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=smillyyy&amp;theme=github-compact&amp;color=58A6FF&amp;line=58A6FF&amp;point=ffffff&amp;hide_border=true&amp;area=true" />
 </div>
 
 <br/>
@@ -70,14 +70,14 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/muhammad-ismail-raja/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
 </a>
 <a href="mailto:ismailraja294@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
 </a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0f172a&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:58A6FF,100:0f172a&amp;height=120&amp;section=footer"/>
