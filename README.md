@@ -19,7 +19,7 @@
 const ismail = {
   title: "Cybersecurity Student & Aspiring Ethical Hacker",
   university: "UET Lahore",
-  stack: ["Python", "Java (OOP)", "Linux", "MySQL", "Computer Networks"],
+  stack: ["Python", "Java", "Linux"],
   launchedProjects: [], // 🚧 building my first public projects — inshallah soon!
   certifications: [],
   status: "Learning & building 📚",
@@ -33,15 +33,11 @@ const ismail = {
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=python,java" />
 
 **Dev Tools**
 
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,bash" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
 
 <br/>
 
