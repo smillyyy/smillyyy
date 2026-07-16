@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:58A6FF&amp;height=220&amp;section=header&amp;text=Muhammad%20Ismail%20Raja&amp;fontSize=46&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Cybersecurity%20Student%20%26%20Aspiring%20Ethical%20Hacker&amp;descAlignY=55&amp;descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&amp;color=0:0f172a,100:58A6FF&amp;height=220&amp;section=header&amp;text=Muhammad%20Ismail%20Raja&amp;fontSize=46&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Cybersecurity%20Student%20%26%20Aspiring%20Ethical%20Hacker&amp;descAlignY=55&amp;descSize=18"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Cybersecurity+Student+%40+UET+Lahore;Learning+Python+%2B+Java+%2B+Linux;Exploring+Networks+%26+Databases;Aspiring+Ethical+Hacker" alt="Typing SVG" />
@@ -80,4 +80,4 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:58A6FF,100:0f172a&amp;height=120&amp;section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&amp;color=0:58A6FF,100:0f172a&amp;height=120&amp;section=footer"/>
