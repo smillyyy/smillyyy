@@ -15,17 +15,12 @@
 
 ## 🧠 Who I Am
 
-```ts
-const ismail = {
-  title: "Cybersecurity Student & Aspiring Ethical Hacker",
-  university: "UET Lahore",
-  stack: ["Python", "Java", "Linux"],
-  launchedProjects: [], // 🚧 building my first public projects — inshallah soon!
-  certifications: [],
-  status: "Learning & building 📚",
-  openTo: "Collaborating on open source & cybersecurity projects",
-};
-```
+- 🎓 **University:** UET Lahore
+- 💼 **Title:** Cybersecurity Student & Aspiring Ethical Hacker
+- 🧰 **Stack:** Python, Java, Linux
+- 🚧 **Projects:** Building my first public projects — inshallah soon!
+- 📌 **Status:** Learning & building 📚
+- 🤝 **Open to:** Collaborating on open source & cybersecurity projects
 
 <br/>
 
